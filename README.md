@@ -15,4 +15,6 @@ A* Pathfinding: https://arongranberg.com/astar
 
 Assets: https://assetstore.unity.com/packages/templates/tutorials/into-the-space-2d-space-shooter-project-20749
 
+Full walkthrough: https://youtu.be/Ml1u9RE6pcA
+
 Note: This project only used with education purpose and not for trading purpose by any means.
