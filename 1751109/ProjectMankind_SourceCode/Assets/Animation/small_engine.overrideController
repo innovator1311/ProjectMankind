@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: small_engine
+  m_Controller: {fileID: 9100000, guid: 7d8dda9e421a14a0fadede03704b5d77, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: a653b3d0dd1e3487f98fe9cf0db527a1, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 26d1222a087d74a7a83bd08299a99261, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 6728765a8ecc8481fa4acdb38f1fe141, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ee83e3f57627e4e0a8a00b6aeeaec6f5, type: 2}
